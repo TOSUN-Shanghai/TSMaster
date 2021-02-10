@@ -9,12 +9,12 @@ Latest TSMaster binary download address [Click to download](http://www.tosun.tec
 TSMaster is a powerful open environment for automotive bus monitoring, simulation, testing, diagnostics and calibration. It is a free software for all automotive engineers. It is upgrading frequently, you can always get latest software using the above download address, or just click "upgrade" button in the help page of TSMaster software.
 
 ## Supported hardware vendors
-[1] TOSUN (TCxx, TLxx...)
-[2] Vector (VN16xx, VN56xx, VN89xx...)
-[3] PEAK (PCAN USB)
-[4] Kvaser (Leaf...)
-[5] Intrepidcs (neo VIFIRE...)
-[6] ZLG (USBCAN...)
+[1] TOSUN (TCxx, TLxx...)  
+[2] Vector (VN16xx, VN56xx, VN89xx...)  
+[3] PEAK (PCAN USB)  
+[4] Kvaser (Leaf...)  
+[5] Intrepidcs (neo VIFIRE...)  
+[6] ZLG (USBCAN...)  
 
 ## Release Notes
 TSMaster Release Notes [See release note](https://github.com/TOSUN-Shanghai/TSMaster/blob/main/TSMaster_release_en.md)
@@ -28,6 +28,9 @@ Total 36 features (Increasing...)
 ## backup download address (including demo videos)
 [Baidu cloud download address](https://pan.baidu.com/s/1kKucGz0hhcCSt44qGBTFrA)
 Download Code: uu0b
+
+## TSMaster User Manual
+- [English Version](https://github.com/TOSUN-Shanghai/TSMaster/blob/main/manual/TSMaster_um_en.md)
 
 ## Application Notes
 - [AN0001 How to use TOSUN Calibration XCP controller](https://github.com/TOSUN-Shanghai/TSMaster/blob/main/AN/AN0001.md)
