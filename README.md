@@ -29,6 +29,12 @@ Total 36 features (Increasing...)
 [Baidu cloud download address](https://pan.baidu.com/s/1kKucGz0hhcCSt44qGBTFrA)
 Download Code: uu0b
 
+## Application Notes
+- [AN0001 How to use TOSUN Calibration XCP controller](https://github.com/TOSUN-Shanghai/TSMaster/blob/main/AN/AN0001.md)
+- [AN0002 Seed and Key algorithm implementation in XCP controller](https://github.com/TOSUN-Shanghai/TSMaster/blob/main/AN/AN0002.md)
+- [AN0003 TOSUN XCP controller mat log file format](https://github.com/TOSUN-Shanghai/TSMaster/blob/main/AN/AN0003.md)
+- [AN0004 How to replay video with bus log files synchronously](https://github.com/TOSUN-Shanghai/TSMaster/blob/main/AN/AN0004.md)
+
 ## TSMaster Screenshots
 
 ### Panel feature
