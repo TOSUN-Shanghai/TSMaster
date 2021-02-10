@@ -22,7 +22,7 @@ TSMaster Release Notes [See release note](https://github.com/TOSUN-Shanghai/TSMa
 ## Feature matrix in Chinese
 中文介绍[点击此链接](https://github.com/TOSUN-Shanghai/TSMaster/blob/main/TSMaster_features_cn.md)
 
-Total 36 features (Incresing...)
+Total 36 features (Increasing...)
 ![image](https://github.com/TOSUN-Shanghai/TSMaster/blob/main/images/About.png)
 
 ## backup download address (including demo videos)
@@ -50,7 +50,7 @@ Download Code: uu0b
 ![image](https://github.com/TOSUN-Shanghai/TSMaster/blob/main/images/Cpp.png)
 
 ### Database window
-![image](https://github.com/TOSUN-Shanghai/TSMaster/blob/main/images/CAN Database.png)
+![image](https://github.com/TOSUN-Shanghai/TSMaster/blob/main/images/CANDatabase.png)
 
 ### Statistics window
 ![image](https://github.com/TOSUN-Shanghai/TSMaster/blob/main/images/CANStatistics.png)
