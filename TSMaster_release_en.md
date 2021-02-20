@@ -2,6 +2,24 @@
 
 >   Features
 
+1.  2021-02-20
+
+[1] PEAK CAN FD device supported
+
+[2] Bug fix: FCOEFFS_LINEAR parse in XCP
+
+1.  2021-02-10
+
+[1] Video step method in AN0004 document updated
+
+[2] shortcuts supported in video replay
+
+[3] TSMaster features document updated
+
+[4] LIN diagnostics API Demos added
+
+[5] github link added: https://github.com/TOSUN-Shanghai/TSMaster
+
 1.  2021-02-06
 
 [1] video step supported in video replay
@@ -617,10 +635,6 @@ Turbo mode is added into hardware settings tab. Checking this option will
 minimize all hardware channel latencies at the expense of consuming more CPU
 usage. Users who concern very much for hardware performance are recommended to
 check this option.
-
-![](media/e97034644db05745c75ca1047336a401.png)
-
-Fig 1 Check Turbo Mode for maximum performance
 
 1.  2020-03-26
 
