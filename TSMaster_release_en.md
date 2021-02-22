@@ -2,6 +2,12 @@
 
 >   Features
 
+1.  2021-02-22
+
+[1] STIM custom signal file import and export supported
+
+[2] Excel Test module released
+
 1.  2021-02-20
 
 [1] PEAK CAN FD device supported
