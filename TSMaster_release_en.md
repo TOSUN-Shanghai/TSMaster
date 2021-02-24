@@ -2,6 +2,18 @@
 
 >   Features
 
+1.  2021-02-24
+
+[1] COM_AXIS supported in XCP Curve
+
+[2] COMPU_VTAB, COMPU_TAB, FFORMULA supported in XCP
+
+[3] Graphics will show never-appear signals as n.a.
+
+[4] fixed: empty blf file replay cause TSMaster never connect
+
+[5] time axis also shows realtime value in Graphics
+
 1.  2021-02-22
 
 [1] STIM custom signal file import and export supported
