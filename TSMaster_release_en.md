@@ -2,6 +2,17 @@
 
 >   Features
 
+1.  2021-03-02
+
+[1] MDF log files export supported in Calibration (2.00, 2.10, 2.14, 3.00, 3.10,
+3.20, 3.30, 4.00, 4.10, 4.11, 4.20) for CANape and INCA
+
+[2] A2L parser crash problem fixed
+
+1.  2021-02-25
+
+[1] API for UI automation added
+
 1.  2021-02-24
 
 [1] COM_AXIS supported in XCP Curve
