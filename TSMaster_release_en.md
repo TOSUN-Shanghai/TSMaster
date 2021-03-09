@@ -2,6 +2,13 @@
 
 >   Features
 
+1.  2021-03-09
+
+[1] Curves and Maps supported in calibration
+
+[2] MF4, MDF and DAT log files import supported in Calibration (2.00, 2.10,
+2.14, 3.00, 3.10, 3.20, 3.30, 4.00, 4.10, 4.11, 4.20) from CANape and INCA
+
 1.  2021-03-02
 
 [1] MDF log files export supported in Calibration (2.00, 2.10, 2.14, 3.00, 3.10,
