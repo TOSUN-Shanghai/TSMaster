@@ -2,6 +2,12 @@
 
 >   Features
 
+1.  2021-03-10
+
+[1] Calibration log can be exported to MATLAB replay model
+
+[2] TSMaster LIN API updated
+
 1.  2021-03-09
 
 [1] Curves and Maps supported in calibration
