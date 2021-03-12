@@ -2,6 +2,14 @@
 
 >   Features
 
+1.  2021-03-12
+
+[1] Bug fix for Calibration data timestamp display
+
+[2] Bug fix for Map COLUMN_DIR display
+
+[3] Bug fix for graphics system variable display
+
 1.  2021-03-10
 
 [1] Calibration log can be exported to MATLAB replay model
