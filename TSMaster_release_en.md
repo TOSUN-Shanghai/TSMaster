@@ -2,6 +2,14 @@
 
 >   Features
 
+1.  2021-03-15
+
+[1] all calibration scalar signals are now supported in panel
+
+[2] curve and map data multi-select-modify supportd
+
+[3] curve and map data interpolation supported
+
 1.  2021-03-12
 
 [1] Bug fix for Calibration data timestamp display
