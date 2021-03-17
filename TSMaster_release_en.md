@@ -2,6 +2,23 @@
 
 >   Features
 
+1.  2021-03-17
+
+[1] bug fix: caption rename of curve form
+
+[2] wildcard search supported in calibration, CAN DB, LIN DB, system variables
+and symbol mapping
+
+[3] comments dialog support for calibration measurement files
+
+[4] parameter curve undo redo supported
+
+[5] parameter curve copy paste supported
+
+[6] STIM multiple change supported
+
+[7] STIM undo redo supported
+
 1.  2021-03-15
 
 [1] all calibration scalar signals are now supported in panel
