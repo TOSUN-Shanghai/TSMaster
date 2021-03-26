@@ -2,6 +2,34 @@
 
 >   Features
 
+1.  2021-03-26
+
+[1] TSMaster and API overall performance improvement
+
+[2] feature added: dbc, ldf, excel test case auto reload after edit
+
+[3] default upload all calibration variables on connection
+
+[4] calibration comments can be displayed when cursor hovers mat file
+
+[5] par file export in calibration
+
+[6] bug fix: chinese char in transmit and graphics window not display
+
+1.  2021-03-22
+
+[1] TSMaster file preview shell components supported
+
+[2] shortcuts (F9, F10 and ESC) supported in graphics
+
+[3] string type supported in Text, input-output box and selector in panel
+
+[4] real-time comment supported during measurement (ALT + C)
+
+[5] graphics integral time display supported and made default
+
+[6] calibration database list display mode added
+
 1.  2021-03-17
 
 [1] bug fix: caption rename of curve form
