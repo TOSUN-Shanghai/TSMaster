@@ -2,6 +2,13 @@
 
 >   Features
 
+1.  2021-03-31
+
+[1] CCP feature release
+
+[2] measurement cursor in graphics: left click to position, right click to
+cancel position
+
 1.  2021-03-26
 
 [1] TSMaster and API overall performance improvement
