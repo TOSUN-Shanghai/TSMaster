@@ -2,6 +2,10 @@
 
 >   Features
 
+1.  2021-04-01
+
+[1] editing of measurement data comment supported in graphics
+
 1.  2021-03-31
 
 [1] CCP feature release
