@@ -2,6 +2,12 @@
 
 >   Features
 
+1.  2021-04-02
+
+[1] improved support for arxml import
+
+[2] multiple databases in arxml can be extracted
+
 1.  2021-04-01
 
 [1] editing of measurement data comment supported in graphics
