@@ -2,6 +2,16 @@
 
 >   Features
 
+1.  2021-04-09
+
+[1] carlibration par file import supported
+
+[2] fifo module supported in COM API
+
+[3] graphics cursor zoom feature supported (default right cursor)
+
+[4] bug fix: bus logger generates additional frame
+
 1.  2021-04-02
 
 [1] improved support for arxml import
