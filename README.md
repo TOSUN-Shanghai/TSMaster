@@ -26,7 +26,7 @@ Total 36 features (Increasing...)
 ![image](https://github.com/TOSUN-Shanghai/TSMaster/blob/main/images/About.png)
 
 ## backup download address (including demo videos)
-[Baidu cloud download address](https://pan.baidu.com/s/1kKucGz0hhcCSt44qGBTFrA)  
+[Baidu cloud download address](https://pan.baidu.com/s/147blQVilkVycwHrFAr-u_g)  
 Download Code: uu0b
 
 ## TSMaster User Manual
