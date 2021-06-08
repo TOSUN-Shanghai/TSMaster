@@ -2,6 +2,113 @@
 
 >   Features
 
+1.  2021-06-08
+
+[1] New Feature: TCP Server, TCP Client, UDP Server and UDP Client are supported
+in Mini program API
+
+[2] Bug fix: First value display error in Calibration Curve under Motorola byte
+order
+
+[3] System variable now supports unit display, value table display, accuracy,
+format to string, affects display of Calibration signals also
+
+[4] New Ethernet demo added: Generic TCP UDP Communication
+
+1.  2021-06-04
+
+[1] Bug fix: CCP fixed CAN ID DAQ packet data corrupt
+
+[2] Bug fix: Calibration save log dialog null value cause crash
+
+[3] Signal comments in transmit window are now persistent
+
+[4] Channel display added in database selector poped by C Editor
+
+[5] online replay engine stop criteria changed to \> 1000 Tx errors
+
+1.  2021-06-02
+
+[1] CCP DAQ with fixed CAN identifier and event channel supported
+
+[2] MP API header fixed: excel_get_cell_value
+
+[3] MP API added: get_configuration_file_name
+
+[4] MP API added: get_configuration_file_path
+
+1.  2021-05-31
+
+[1] New Feature: Window layout control
+
+[2] Bug fix: dbc cycle parse
+
+1.  2021-05-29
+
+[1] Bug fix: CAN RBS load configuration not refresh UI
+
+[2] Bug fix: display of AXIS_PTS in calibration database window
+
+1.  2021-05-26
+
+[1] Bug fix: crash on connection to some HW
+
+1.  2021-05-25
+
+[1] CAN transmit window signal step settings are now persistent
+
+[2] mini program library dependency is now persistent
+
+[3] CAN RBS node selection is now persistent
+
+[4] CCP commands SET_S_STATUS and SELECT_CAL_PAGE supported
+
+[5] dbc parse speed 100x faster
+
+1.  2021-05-21
+
+[1] Timer accuracy optimized
+
+1.  2021-05-20
+
+[1] CAN RBS topology chart added
+
+1.  2021-05-14
+
+[1] max LIN frames in schedule table set to 150
+
+1.  2021-05-13
+
+[1] Blf logging API demo configuration added
+
+[2] Bug fix for extended frame id in asc conversion
+
+1.  2021-05-10
+
+[1] Each MDI window's z-order is now remembered
+
+[2] Blf file API added
+
+1.  2021-05-05
+
+[1] mini program library dependencies configuration supported
+
+1.  2021-05-02
+
+[1] TSMaster plugin manager released
+
+1.  2021-04-28
+
+[1] minor bug fixes
+
+1.  2021-04-23
+
+[1] Signal relation graphics added in panel
+
+1.  2021-04-22
+
+[1] TSMaster software architecture completely redesigned
+
 1.  2021-04-16
 
 [1] minor bug fixes
