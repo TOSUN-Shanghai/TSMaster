@@ -2,6 +2,46 @@
 
 >   Features
 
+1.  2021-06-18
+
+[1] Panel controls now support value table from system variables
+
+1.  2021-06-17
+
+[1] Panel input output box bkgd and border color, font can now be customized
+
+[2] new API: app.get_tsmaster_version
+
+[3] value table supported in STIM window
+
+[4] A2L parser now supports "ECU" as module name
+
+[5] Panel bug fix: copy paste controls cause some objects missing
+
+[6] dialog added for unexpected start of CAN RBS engine in panel editor
+
+1.  2021-06-14
+
+[1] Test system example updated: insert screenshots into word report
+
+[2] Test API added: retrieve_current_result_folder
+
+[3] Test API added: write_result_image
+
+[4] Test system new example: Excel test system report automation
+
+1.  2021-06-12
+
+[1] Excel test system report process script demo added
+
+1.  2021-06-11
+
+[1] Improved: A2L loading speed increased by 10x
+
+[2] Bug fix: TC1011 baud rate UI not refreshed after CAN core switched
+
+[3] Bug fix: custom signal channel read only in graphics
+
 1.  2021-06-08
 
 [1] New Feature: TCP Server, TCP Client, UDP Server and UDP Client are supported
