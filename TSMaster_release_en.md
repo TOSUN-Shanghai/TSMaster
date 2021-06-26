@@ -2,9 +2,22 @@
 
 >   Features
 
-1.  2021-06-18
+1.  2021-06-26
+
+[1] Released: Mini Program SDK (<https://github.com/TOSUN-Shanghai>)
+
+[2] CCP hex file can be uploaded and downloaded
+
+1.  2021-06-20
 
 [1] Panel controls now support value table from system variables
+
+[2] Graphics refreshes during offline replay
+
+[3] Bug fix: CAN RBS not run first time when a configuration is loaded
+
+[4] TSMaster T7z file is now compatible with 7zip file format, replace files in
+project configuration manually is allowed
 
 1.  2021-06-17
 
