@@ -2,6 +2,60 @@
 
 >   Features
 
+1.  2021-07-14
+
+[1] SYSTEM_CONSTANT related compu methods supported in calibration
+
+[2] TSMaster plugin can also be implemented as mini program library
+
+[3] Offline calibration mode supported in XCP
+
+[4] Offline calibration mode supported in CCP
+
+1.  2021-07-13
+
+[1] realtime comments now supported in bus log
+
+[2] APIs added for blf realtime comments
+
+[3] APIs added for realtime comments in app environment
+
+[4] Blf_Logging example updated for realtime comments
+
+[5] Build checksum supported in XCP
+
+[6] Build checksum supported in CCP
+
+1.  2021-07-08
+
+[1] Graphics all columns can now be sorted
+
+[2] Trace fixed display logic re-written
+
+1.  2021-07-07
+
+[1] CAN Trace fixed mode stress test (100000 frames/sec per channel) passed
+
+[2] Graphic signals support sorting by name
+
+[3] Bug fix: Calibration large address cause crash (not tested)
+
+[4] Bug fix: Test system report automation image template generation
+
+[5] Added: post process script supported in Test system report automation
+
+1.  2021-07-01
+
+[1] CCP hex file can be exported after calibration
+
+[2] Bug fix: bkgd color read crash in panel
+
+[3] Bug fix: TS virtual channel mapping incorrect
+
+[4] XCP hex file can be exported after calibration
+
+[5] XCP hex file can be uploaded and downloaded
+
 1.  2021-06-26
 
 [1] Released: Mini Program SDK (<https://github.com/TOSUN-Shanghai>)
