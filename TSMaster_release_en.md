@@ -2,6 +2,12 @@
 
 >   Features
 
+1.  2021-07-15
+
+[1] Mini program VC++ project can be generated directly in editor
+
+[2] MDI now supports colorful window title color
+
 1.  2021-07-14
 
 [1] SYSTEM_CONSTANT related compu methods supported in calibration
