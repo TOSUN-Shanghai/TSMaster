@@ -2,6 +2,91 @@
 
 >   Features
 
+1.  2021-08-06
+
+[1] Bug fix: calibration crash when stopping in polling mode
+
+[2] Updated: C Code Editor var and timer highlighted, method popup supported
+
+1.  2021-08-05
+
+[1] New: udp APIs added in ioip
+
+[2] Bug fix: Panel circular reference problem
+
+[3] Bug fix: Align of child objects in panel is now persistent
+
+[4] Bug fix: channel selection dialog select all and deselect all
+
+1.  2021-08-04
+
+[1] New: Auto Mapping Code generation for TSMaster SDK
+
+1.  2021-08-03
+
+[1] New: file and directory API added
+
+[2] New: UDP broadcast API added
+
+1.  2021-08-02
+
+[1] New: Global rx filter added for all supported CAN interfaces
+
+[2] New: Feature select with project templates
+
+[3] New: video link added: Global Rx filter
+
+[4] Bug fix: Panel start before mini program causes system var link incorrect
+
+1.  2021-07-30
+
+[1] New: video link added: Mini Program tutorial 2
+
+[2] New: Feature select dialog
+
+[3] New: text file APIs in mini program
+
+1.  2021-07-29
+
+[1] New: video links added in Calibration window, C Editor, System Var Mgmt,
+Hardware
+
+[2] New: AN0005 How to transmit LIN frames
+
+[3] Bug fix: CAN trace display mode change causes frame lost
+
+[4] Updated: Calibration A2L group with no parent will be shown in root
+
+1.  2021-07-27
+
+[1] New: calibration parameters can be inserted to hex
+
+[2] New: TSDB added in out of process server
+
+[3] New: system variables can be read or write by COM server
+
+[4] New: video links added in C Code editor and CAN RBS windows
+
+[5] Improved: TSMaster setup file may not be killed by some virus software
+
+[6] Improved: TC1005 driver performance enhanced
+
+[7] Updated: TSMaster Calibration document AN0001
+
+1.  2021-07-23
+
+[1] New: Measurement window: Numeric
+
+[2] New: server response API functions added in ioip in mini program
+
+[3] New: calibration parameters can be imported from hex
+
+[4] New: buttons on quick customization bar on main ribbon
+
+[5] Bug fix: panel input-output box initial value is always n.a.
+
+[6] Bug fix: calibration map batch modification not work
+
 1.  2021-07-15
 
 [1] Mini program VC++ project can be generated directly in editor
