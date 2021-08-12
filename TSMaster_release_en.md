@@ -2,6 +2,24 @@
 
 >   Features
 
+1.  2021-08-12
+
+Bug fix: CAN FD transmit window, signal init value is always 0
+
+1.  2021-08-10
+
+[1] New: CAN Trace set reference under chronological mode
+
+[2] New video: calibration automation
+
+[3] Bug fix: Calibration cache enable option persistent
+
+1.  2021-08-08
+
+[1] New demo: Convert Blf to signal based CSV
+
+[2] Updated: real-time comment is now shown in Graphics charting area
+
 1.  2021-08-06
 
 [1] Bug fix: calibration crash when stopping in polling mode
