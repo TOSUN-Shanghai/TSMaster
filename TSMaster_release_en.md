@@ -2,9 +2,134 @@
 
 >   Features
 
+1.  2021-09-17
+
+[1] New: API for ini files read and write
+
+[2] Improved: var on written and on change distinguished in mini program
+
+[3] Improved: Graphics and STIM now highlights deleted signals
+
+[4] Bug fix: calibration CRC DWORD algorithm selected as ARC
+
+[5] Bug fix: calibration hex export with address range \> 0xFFFF
+
+1.  2021-09-16
+
+[1] Improved: stop measurement in each MDI is invoked before app disconnect
+
+[2] Improved: batch modification in graphics
+
+[3] Improved: value table of system variable is now ordered
+
+[4] Improved: Calibration measurement list highlights n.a. signals
+
+[5] Improved: Calibration measurement list filter implemented
+
+[6] Bug fix: set double signal in mini program
+
+[7] Bug fix: keydown enter twice in graphics
+
+[8] Bug fix: prevent graphics eat mouse click after right mouse button down
+
+[9] Bug fix: Non-ISO cannot be selected in TS FD hardware config
+
+[10] Bug fix: value table lost in copied message in CAN FD Transmit window
+
+1.  2021-09-11
+
+[1] Improved: Graphics now supports undo and redo
+
+[2] Improved: Graphics grid color alpha set to 20%
+
+[3] Improved: Graphics X axis font color same as X axis color
+
+[4] Improved: Graphics Y axis increment max count can be set
+
+[5] Improved: Numeric window now supports offline bus signal replay display
+
+[6] Improved: Calibration error code message display added
+
+[7] New: Prompt user input in MP API
+
+[8] Bug fix: panel drag control over container causes hang
+
+1.  2021-09-03
+
+[1] Improved: Graphics supports signal color customization
+
+[2] Improved: Graphics zoom feature
+
+[3] Improved: Kill focus on panel input output box
+
+[4] New: Calibration CRC algorithm: CRC_BYTE, CRC_DWORD, CRC_2_WORD
+
+[5] Bug fix: Panel enable property
+
+[6] Bug fix: blf write API without timestamp causes incorrect measurement start
+time
+
+[7] Bug fix: first sample point not displayed in graphics
+
+1.  2021-08-31
+
+[1] Bug fix: large raw signal modify in CAN FD transmit
+
+[2] Improved: MDI form borders are easily to drag
+
+[3] Improved: Graphics signal list width persistance
+
+1.  2021-08-29
+
+[1] New: Graphics goto specific time
+
+[2] New: Sync scroll among all Graphics, based on their “Sync. Token” property
+
+[3] New: fixed form mode (cannot resize and move)
+
+[4] Bug fix: format display in calibration
+
+1.  2021-08-26
+
+[1] Bug fix: IEEE float 32 and 64 factor and offset not calculated
+
+[2] New: Graphics signal can switch to vertical line junction style
+
+[3] Updated: save measurement dialog add delete file option
+
+1.  2021-08-25
+
+[1] Bug fix: Panel pasted control drag causes shadow
+
+1.  2021-08-24
+
+[1] Bug fix: calibration stop uploading while connecting cause hang
+
+[2] Bug fix: CCP byte order cannot be changed
+
+[3] Bug fix: blf BL_OBJ_TYPE_CAN_FD_MESSAGE_64 parse
+
+[4] Improved: up and down button affect all selected signals in STIM
+
+[5] Improved: Graphics drag drop multiple signals supported
+
+[6] Improved: Curve drag drop multiple signals supported
+
+1.  2021-08-18
+
+[1] New: Graphics line style and width options
+
+[2] New: mat file read write api added
+
+[3] Updated: Calibration Curve order list by dragging
+
+[4] Bug fix: some panel configuration lost after one of multiple panels deleted
+
+[5] Bug fix: Trace dislay LIN 3C 3D signal crash
+
 1.  2021-08-12
 
-Bug fix: CAN FD transmit window, signal init value is always 0
+[1] Bug fix: CAN FD transmit window, signal init value is always 0
 
 1.  2021-08-10
 
