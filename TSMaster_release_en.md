@@ -2,7 +2,39 @@
 
 >   Features
 
-1.  2021-09-17
+1.  2021-09-29
+
+[1] New: Test system parameters can now be loaded from ini file
+
+[2] New: Test system parameters list load and save with csv supported
+
+1.  2021-09-28
+
+[1] New: Drag drop from Trace to Graphics, Meter, Numeric, Panel
+
+[2] New: Drag drop from Calibration database to Graphics, Numeric, Parameter
+Curve, Panel
+
+[3] New: Drag drop from CAN Database to Graphics, Numeric, Panel
+
+[4] New: Drag drop from LIN Database to Graphics, Numeric, Panel
+
+[5] New: Drag drop from System Var Mgmt to Graphics, Numeric, Panel
+
+[6] New: Default settings options for STIM, CAN Transmit, CAN Trace, LIN
+Transmit, LIN Trace, Graphics
+
+[7] Improved: Calibration log file name supports absolute dir
+
+[8] Improved: Graphics signal list header popup menu added
+
+1.  2021-09-25
+
+[1] Improved: App Host options
+
+[2] Bug fix: calibration new ecu cause crash
+
+1.  2021-09-22
 
 [1] New: API for ini files read and write
 
