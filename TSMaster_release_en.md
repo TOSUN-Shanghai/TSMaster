@@ -2,6 +2,16 @@
 
 >   Features
 
+1.  2021-10-06
+
+[1] New: Open source CAN tool CANable (candleLight) supported
+
+1.  2021-10-03
+
+[1] Improved: High DPI display
+
+[2] New: compiler parameters in C Editor
+
 1.  2021-09-29
 
 [1] New: Test system parameters can now be loaded from ini file
