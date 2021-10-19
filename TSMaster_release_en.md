@@ -2,6 +2,21 @@
 
 >   Features
 
+1.  2021-10-19
+
+[1] New: Counter column in CAN Trace
+
+[2] New: Graphics y axis display option
+
+[3] Improved: quantization error in trace eliminated
+
+[4] Improved: RAM and Flash mapping supported in calibration for A2L generated
+by Vector
+
+[5] Bug fix: clear bus stat under baud \<\> 500k
+
+[6] Bug fix: multiplex editor in graphics
+
 1.  2021-10-06
 
 [1] New: Open source CAN tool CANable (candleLight) supported

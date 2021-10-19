@@ -15,6 +15,7 @@ TSMaster is a powerful open environment for automotive bus monitoring, simulatio
 [4] Kvaser (Leaf...)  
 [5] Intrepidcs (neo VIFIRE...)  
 [6] ZLG (USBCAN...)  
+[7] Open source CAN tool (candleLight, canable, cantact, USB2CAN, CANAlyze ...)  
 
 ## Release Notes
 TSMaster Release Notes [See release note](https://github.com/TOSUN-Shanghai/TSMaster/blob/main/TSMaster_release_en.md)
@@ -22,7 +23,7 @@ TSMaster Release Notes [See release note](https://github.com/TOSUN-Shanghai/TSMa
 ## Feature matrix in Chinese
 中文介绍[点击此链接](https://github.com/TOSUN-Shanghai/TSMaster/blob/main/TSMaster_features_cn.md)
 
-Total 36 features (Increasing...)
+Total 42 features (Increasing...)
 ![image](https://github.com/TOSUN-Shanghai/TSMaster/blob/main/images/About.png)
 
 ## backup download address (including demo videos)
