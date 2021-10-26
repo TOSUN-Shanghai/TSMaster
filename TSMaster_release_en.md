@@ -2,6 +2,19 @@
 
 >   Features
 
+1.  2021-10-26
+
+[1] New: auto code gen in CAN RBS in popup menu
+
+[2] New: API to set message cycle in CAN RBS
+
+[3] Improved: address in A2L now supports 0xXXXL (non official)
+
+[4] Improved: mouse wheel on signal Y axis in Graphics: scroll to move, Ctrl +
+scroll to zoom
+
+[5] Bug fix: get or set vendor detect options API
+
 1.  2021-10-19
 
 [1] New: Counter column in CAN Trace
