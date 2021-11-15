@@ -2,6 +2,25 @@
 
 >   Features
 
+1.  2021-11-15
+
+[1] New: tutorial videos in youtube
+
+[2] New: drag signals from Calibration database and System variable manager to
+STIM
+
+[3] Improved: UI elements in CAN database, CAN Statistics
+
+[4] Bug fix: default byte order in Calibration
+
+[5] Bug fix: force stop connecting in calibration cause crash
+
+1.  2021-11-04
+
+[1] New: Add, Dec, Mul, Div supported in STIM
+
+[2] New: Diagnostics
+
 1.  2021-10-26
 
 [1] New: auto code gen in CAN RBS in popup menu
