@@ -2,9 +2,38 @@
 
 >   Features
 
+1.  2021-12-05
+
+[1] New: CAN Trace Sync. token with Graphics supported
+
+[2] New: C Code snippet supports DB signals and RBS signals
+
+[3] Improved: Graphics horz. and vert. adjust
+
+[4] Improved: Graphics new column: Type
+
+[5] Improved: System messages new filter
+
+[6] Improved: C Code editor compiler default supports multi thread
+
+1.  2021-11-26
+
+[1] New: Get unique computer hw id api added
+
+[2] Improved: TSMaster icon resolution enhanced
+
+[3] Improved: all signals in message can be auto created as pair in symbol
+mapping
+
+1.  2021-11-24
+
+[1] Improved: C editor omits duplicated message name while compling
+
+[2] Bug fix: edit signal in sorted list of graphics
+
 1.  2021-11-15
 
-[1] New: tutorial videos in youtube
+[1] New: tutorial videos in youtube when language is not Chinese
 
 [2] New: drag signals from Calibration database and System variable manager to
 STIM
