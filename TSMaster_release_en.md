@@ -2,7 +2,90 @@
 
 >   Features
 
-1.  2021-12-05
+1.  2022-01-21
+
+[1] directory base project management instead of T7z file
+
+[2] Note: all relative paths reference to project directory
+
+[3] Note: temporary directory can be dangerous, please create new directory for
+each project
+
+[4] Note: T7z file is now only used to import, export and project exchange
+
+[5] Note: Git can now be used on project directory
+
+[6] TSMaster project directory icon added
+
+1.  2022-01-17
+
+[1] Single signal mode supported in graphics
+
+[2] horizontal cursor and vertical cursor supported in graphics
+
+[3] + - \* / buttons supported in Parameter curve
+
+[4] minor bug fixes in graphics
+
+1.  2022-01-13
+
+[1] New: signal server API supported in mini program
+
+[2] Improved: Numeric now supports replay
+
+1.  2022-01-11
+
+[1] New: Arxml Multiplex signal display supported in Graphics, Numeric, Meter,
+Panel
+
+[2] New: Factor and Offset supported in symbol mapping
+
+[3] Improved: Panel high display quality
+
+1.  2022-01-03
+
+[1] Mini program variable change event can associate any system variable
+
+[2] Module Auto start priority can be set in software settings
+
+1.  2021-12-26
+
+[1] Kernel improvement: load database, startup performance, etc.
+
+[2] graphics bug fix: cursor time incorrect
+
+[3] API Improvement: API can be initialized multiple times for LabVIEW
+
+1.  2021-12-21
+
+[1] New: system variables can now be created or deleted by API
+
+[2] Improved: C editor system function names sorted
+
+[3] Bug fix: unsupported arxml multiplexed signals deleted in C editor
+
+[4] Bug fix: delete form in measurement setup causes order incorrect
+
+1.  2021-12-14
+
+[1] Improved: CAN Trace redesigned (arxml pdu supported)
+
+[2] Improved: CAN Trace sort dialog added
+
+[3] Improved: Project load speed increased
+
+[4] Improved: MDI title bar double click handler
+
+1.  2021-12-09
+
+[1] New: [Calibration] Array type Measurement Var monitor, log and replay
+supported
+
+[2] Bug fix: enum display in calibration
+
+[3] Bug fix: factor and offset calc. in graphics
+
+1.  2021-12-06
 
 [1] New: CAN Trace Sync. token with Graphics supported
 
