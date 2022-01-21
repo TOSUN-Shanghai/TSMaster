@@ -5,6 +5,9 @@
 ## Download Address
 Latest TSMaster binary download address [Click to download](http://www.tosun.tech/TOSUNSoftware/TSMaster_Setup_beta.exe)
 
+Note: You can download alpha version using the following method (step 1 to 5), alpha version is released more frequently than beta version and standard version, which includes fast bug fixes and new features.
+![image](https://user-images.githubusercontent.com/16358754/146203607-3b18aa41-8110-41e5-82a6-5337ec7e48f9.png)
+
 ## Brief Introduction
 TSMaster is a powerful open environment for automotive bus monitoring, simulation, testing, diagnostics and calibration. It is a free software for all automotive engineers. It is upgrading frequently, you can always get latest software using the above download address, or just click "upgrade" button in the help page of TSMaster software.
 
