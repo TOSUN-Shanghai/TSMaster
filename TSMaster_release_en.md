@@ -2,9 +2,15 @@
 
 >   Features
 
+1.  2022-01-22
+
+[1] new file type: PT7z (password protected T7z)
+
+[2] TSMaster project directory icon supported
+
 1.  2022-01-21
 
-[1] directory base project management instead of T7z file
+[1] directory based project management instead of T7z file
 
 [2] Note: all relative paths reference to project directory
 
@@ -14,8 +20,6 @@ each project
 [4] Note: T7z file is now only used to import, export and project exchange
 
 [5] Note: Git can now be used on project directory
-
-[6] TSMaster project directory icon added
 
 1.  2022-01-17
 
