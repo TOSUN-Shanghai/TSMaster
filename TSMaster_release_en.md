@@ -2,6 +2,14 @@
 
 >   Features
 
+1.  2022-01-26
+
+[1] New: project directory being used prompt supported
+
+[2] Bug fix: db changes cause hidden panel crash
+
+[3] New: auto generation of C code on compile for Git version compare
+
 1.  2022-01-22
 
 [1] new file type: PT7z (password protected T7z)
