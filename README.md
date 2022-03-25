@@ -3,7 +3,11 @@
 ![image](https://github.com/TOSUN-Shanghai/TSMaster/blob/main/images/TSMaster.png)
 
 ## Download Address
-Latest TSMaster binary download address [Click to download](http://www.tosun.tech/TOSUNSoftware/TSMaster_Setup_beta.exe)
+Latest TSMaster binary download address (beta version)  
+[http://www.tosun.tech/TOSUNSoftware/TSMaster_Setup_beta.exe](http://www.tosun.tech/TOSUNSoftware/TSMaster_Setup_beta.exe)
+
+Latest TSMaster binary download address (alpha version, may be updated more frequently)  
+[http://www.tosun.tech/TOSUNSoftware/TSMaster_Setup_alpha.exe](http://www.tosun.tech/TOSUNSoftware/TSMaster_Setup_alpha.exe)
 
 Note: You can download alpha version using the following method (step 1 to 5), alpha version is released more frequently than beta version and standard version, which includes fast bug fixes and new features.
 ![image](https://user-images.githubusercontent.com/16358754/146203607-3b18aa41-8110-41e5-82a6-5337ec7e48f9.png)
