@@ -4,7 +4,7 @@
 
 ## Download Address
 Latest TSMaster binary download address (beta version)  
-[http://www.tosun.tech/TOSUNSoftware/TSMaster_Setup_beta.exe](http://www.tosun.tech/TOSUNSoftware/TSMaster_Setup_beta.exe)
+[https://download.tosun.tech/TOSUNSoftware/TSMaster_Setup_beta.exe](https://download.tosun.tech/TOSUNSoftware/TSMaster_Setup_beta.exe)
 
 Latest TSMaster binary download address (alpha version, may be updated more frequently)  
 [http://www.tosun.tech/TOSUNSoftware/TSMaster_Setup_alpha.exe](http://www.tosun.tech/TOSUNSoftware/TSMaster_Setup_alpha.exe)
